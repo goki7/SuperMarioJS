@@ -1,0 +1,13 @@
+tile = {
+    "columns": 33,
+    "image": "blocks.png",
+    "imageheight": 448,
+    "imagewidth": 528,
+    "margin": 0,
+    "name": "blocks",
+    "spacing": 0,
+    "tilecount": 924,
+    "tileheight": 16,
+    "tilewidth": 16,
+    "type": "tileset"
+}
